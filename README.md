@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como atividade acadêmica da disciplina de **Business Intelligence** da **UniFECAF**, com orientação do professor **Thiago Lopez**.
 
-O objetivo foi aplicar conceitos de Business Intelligence, análise de dados e visualização de informações por meio da construção de dashboards executivos no **Google Looker Studio**, simulando um cenário real de consultoria empresarial.
+O objetivo foi aplicar conceitos de Business Intelligence, análise de dados e visualização de informações por meio da construção de dashboards executivos no **Data Studio**, simulando um cenário real de consultoria empresarial.
 
 ---
 
