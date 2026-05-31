@@ -614,4 +614,6 @@ TechG3ML: https://datastudio.google.com/reporting/faa925b9-d9e4-4464-bf8f-75de92
 
 SmartShop: https://datastudio.google.com/reporting/070869a9-2c0b-4fff-8e19-3d4c8f7b5028
 
+Vídeo Pitch: https://youtu.be/xiM6n1_lfXc?si=PTJSE38oW5Xc__P_
+
  
