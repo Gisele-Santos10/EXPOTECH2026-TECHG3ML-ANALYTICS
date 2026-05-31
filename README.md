@@ -34,8 +34,9 @@ O dashboard foi criado para monitorar indicadores comerciais, vendas e comportam
 
 ## 🛠 Tecnologias Utilizadas
 
-- Google Sheets
-- Google Looker Studio
+- Google Sheets para a criação dos dados na planilha
+- Google BigQuery
+- Data Studio
 - Modelagem Dimensional
 - Análise de Dados
 - Business Intelligence (BI)
